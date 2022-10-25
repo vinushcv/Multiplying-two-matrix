@@ -28,6 +28,7 @@ for i in range(n):
     l1.append(int(input()))
 for i in range(n):
     l2.append(int(input()))
+
 a=np.array(l1)
 b=np.array(l2)
 product=a*b
